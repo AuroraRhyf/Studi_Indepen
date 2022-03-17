@@ -1,2 +1,0 @@
-# Studi_Independent
-Latihan
