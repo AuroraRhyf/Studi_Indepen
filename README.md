@@ -1,2 +1,2 @@
-# Studi_Indepen
+# Studi_Independent
 Latihan
